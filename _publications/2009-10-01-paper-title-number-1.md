@@ -12,4 +12,4 @@ This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](https://link.springer.com/content/pdf/10.1007/s11116-017-9834-7.pdf)
 
-Recommended citation: Shengxiao Li, Luoye Chen, Pengjun Zhao. (2019) The impact of metro services on housing prices: a case study from Beijing. <i>Transportation<i> 46, 1291–1317 (2019).
+Recommended citation: Shengxiao Li, Luoye Chen, Pengjun Zhao. (2019) The impact of metro services on housing prices: a case study from Beijing. <i>Transportation<i> 46, 1291–1317.
