@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sorry, this site is nnder Construction....."
+title: "Sorry, this site is under Construction....."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
