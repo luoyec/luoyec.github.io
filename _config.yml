@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Luoye Chen Personal Website (Under Construction....)"
+title                    : "Luoye Chen"
 title_separator          : "-"
 name                     : &name "Luoye Chen"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Luoye Chen"
   avatar           : "luoye_profile.png"
-  bio              : "Ph.D Student in Ag Econ"
+  bio              : "Ph.D Student in Applied Econ"
   #location         : "Location"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Luoye+Chen"
