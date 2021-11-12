@@ -1,7 +1,7 @@
 # main links links
 main:
 
-  - title: "Working Paper"
+  - title: "Current Research"
     url: /workingpaper/
 
   - title: "Publications"
@@ -19,11 +19,11 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+  #  url: /cv/
 
-  - title: "resources"
-    url: /resources/
+  #- title: "resources"
+  #  url: /resources/
     
   #- title: "Guide"
   #  url: /markdown/
