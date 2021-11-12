@@ -4,6 +4,6 @@ collection: teaching
 type: "Gradute module, 2021"
 permalink: /teaching/2020-spring
 venue: "Guest Speaker"
-#date: 2020
+date: 2020-09-01
 #location: "City, Country"
 ---
