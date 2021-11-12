@@ -18,4 +18,4 @@ optimal control theories.
 
 I will be officially on the job market from November 2021.
 
-Please access my updated CV here: [CV](../files/CV_Chen_Nov2021.pdf)
+Please access my updated CV here: [CV](../files/CV_Chen2021.pdf)
