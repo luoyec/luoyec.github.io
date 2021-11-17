@@ -5,7 +5,7 @@ permalink: /publication/2017-11-09-transportation
 excerpt: ''
 date: 2017-11-09
 venue: 'Transportation'
-paperurl: 'https://link.springer.com/article/10.1007/s11116-017-9834-7#article-info'
+#paperurl: 'https://link.springer.com/article/10.1007/s11116-017-9834-7#article-info'
 citation: 'Shengxiao Li, Luoye Chen, Pengjun Zhao. (2019) The impact of metro services on housing prices: a case study from Beijing. Transportation 46, 1291–1317. (second author)'
 ---
 
