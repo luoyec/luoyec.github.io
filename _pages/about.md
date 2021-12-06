@@ -16,6 +16,6 @@ between economic and natural systems aects agricultural production, renewable r
 and human adaptation. I combine different theoretical and empirical strategies in my research, such as modern econometric methods for causal inference, machine learning, and
 optimal control theories.
 
-I will be officially on the job market from November 2021.
+I am on the job market in the year 2021-2022. 
 
 Please access my updated CV here: [CV](../files/CV_Chen2021.pdf)
