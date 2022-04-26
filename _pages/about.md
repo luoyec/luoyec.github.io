@@ -15,4 +15,6 @@ related interdisciplinary felds. In my research, I seek to understand how the in
 and human adaptation. I combine different theoretical and empirical strategies in my research, such as modern econometric methods for causal inference, machine learning, and
 optimal control theories.
 
+I will join the Innovation, Policy, and Entrepreneurship Thrust of the Society Hub of The Hong Kong University of Science and Technology (Guangzhou) as an Assistant Professor beginning from Fall 2022.
+
 Please access my updated CV here: [CV](../files/CV_Chen2021.pdf)
