@@ -17,4 +17,4 @@ optimal control theories.
 
 I will join the Innovation, Policy, and Entrepreneurship Thrust of the Society Hub of The Hong Kong University of Science and Technology (Guangzhou) as an Assistant Professor beginning from Fall 2022.
 
-Please access my updated CV here: [CV](../files/CV_Chen2021.pdf)
+Please access my updated CV here: [CV](../files/CV_LuoyeChen_Apr2022.pdf)
