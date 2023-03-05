@@ -18,6 +18,6 @@ redirect_from:
 - **Xiaoguang Chen, Luoye Chen, Wei Xie, Nathan Mueller, Steven Davis, “Air Pollution and FlightDelays in China".** *Forthcoming, Journal of Environmental Economics and Management, (first authorship is jointly shared by Xiaoguang Chen, Luoye Chen, and Wei Xie)*
 
 ### Working in progress
-- **Sustainable agricultural production in ecologically vulunerable area**
+- **Sustainable agricultural production in ecologically vulnerable area**
 - **The adoption and diffusion of technology in rural China**
 
