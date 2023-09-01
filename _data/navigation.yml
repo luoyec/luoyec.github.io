@@ -6,7 +6,9 @@ main:
 
   - title: "Publications"
     url: /publications/
-
+  
+  - title: "PhD/RA Recruitment"
+    url: /recruitment/
   #- title: "Talks"
   #  url: /talks/    
 
