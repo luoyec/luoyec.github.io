@@ -1,11 +1,11 @@
 ---
 permalink: /recruitment/
 title: "PhD/RA Recruitment"
-excerpt: "About me"
+excerpt: "recruitment"
 author_profile: true
 redirect_from: 
-  - /recruitment/
-  - /recruitment.html
+  - /research
+
 ---
 
 I am currently seeking highly motivated postgraduate students (PhD), post-docs, research assistants, and summer interns to join my research team for the Fall 2024 term. 

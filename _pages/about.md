@@ -15,4 +15,4 @@ I'm Luoye, an assistant professor at the Carbon Neutrality and Climate Change Th
 Please access my updated CV here: [CV](../files/CV_LuoyeChen_June2023.pdf)
 
 
-I am currently seeking highly motivated postgraduate students (PhD) and research assistants to join my research team. If you are interested, please click this link for detailed information: [link](../_pages/recuritment.md)
+I am currently seeking highly motivated postgraduate students (PhD) and research assistants to join my research team. If you are interested, please click this link for detailed information: [link](../_pages/recruitment.md)
