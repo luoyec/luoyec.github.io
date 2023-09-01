@@ -18,7 +18,7 @@ PhD/RA Recruitment Criteria:
 
 **While candidates trained in economics with strong analytical skills are preferred, students from related fields such as management, financial engineering, applied mathematics/computer science/environmental engineering with a passion for interdisciplinary research are also welcome to apply.** 
 
-If you're interested, please email me your CV, transcripts (official or unofficial), and a two-page research proposal at luoyechen@ust.hk. Please note that I may not respond to emails containing only a CV.
+If you're interested, please email me your CV, transcripts (official or unofficial), and a two-page research proposal at **luoyechen [at] ust [dot] hk**. Please note that I may not respond to emails containing only a CV.
 
 Research Proposal Requirements:
 - A clear research question
