@@ -12,12 +12,11 @@ I am currently seeking highly motivated postgraduate students (PhD), post-docs, 
 
 PhD/RA Recruitment Criteria: 
 - Bachelor's or master's degree holders in relevant fields
-- Solid econometric training and proficiency in Stata, R, or Python 
 - Proficiency in Stata/R, GIS/remote sensing, Python, and machine learning, or familaiarity with RCT/field experiments will be given priority.
 - Team player with excellent communication skills 
 - Self-driven and eager to learn
 
-**While candidates trained in economics with strong analytical skills are preferred, students from related fields such as management, financial engineering, and computer science with a passion for interdisciplinary research are also welcome to apply.** 
+**While candidates trained in economics with strong analytical skills are preferred, students from related fields such as management, financial engineering, applied mathematics/computer science/environmental engineering with a passion for interdisciplinary research are also welcome to apply.** 
 
 If you're interested, please email me your CV, transcripts (official or unofficial), and a two-page research proposal at luoyechen@ust.hk. Please note that I may not respond to emails containing only a CV.
 
