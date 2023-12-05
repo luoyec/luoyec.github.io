@@ -12,11 +12,11 @@ I am currently seeking highly motivated postgraduate students (PhD), post-docs, 
 
 PhD/RA Recruitment Criteria: 
 - Bachelor's or master's degree holders in relevant fields
-- Proficiency in Stata/R, GIS/remote sensing, Python, and machine learning, or familaiarity with RCT/field experiments will be given priority.
+- Proficiency in Stata/R, GIS/remote sensing, Python, mathematical modelling, and machine learning, or familaiarity with RCT/field experiments will be given priority.
 - Team player with excellent communication skills 
 - Self-driven and eager to learn
 
-**While candidates trained in economics with strong analytical skills are preferred, students from related fields such as management, financial engineering, applied mathematics/computer science/environmental engineering with a passion for interdisciplinary research are also welcome to apply.** 
+**While candidates trained in economics with strong analytical skills are preferred, students from related fields such as financial engineering, applied mathematics/computer science/environmental engineering with a passion for interdisciplinary research are also welcome to apply.** 
 
 If you're interested, please email me your CV, transcripts (official or unofficial), and a two-page research proposal at **luoyechen [at] hkust-gz [dot] edu [dot] cn**. Please note that I may not respond to emails containing only a CV.
 
