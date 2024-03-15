@@ -20,7 +20,6 @@ redirect_from:
 
 ### Publications
 "The Spatiotemporal Pattern of Surface Ozone and Its Impact on Agricultural Productivity in China" 
-
 Xiaoguang Chen, Jing Gao, Luoye Chen, Madhu Khanna, Binlei Gong, and Max Auffhammer. 
 
 *PNAS nexus*, 2024 (first authorship jointly shared).
