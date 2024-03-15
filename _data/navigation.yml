@@ -1,8 +1,8 @@
 # main links links
 main:
 
-  - title: "Current Research"
-    url: /workingpaper/
+  #- title: "Current Research"
+  #  url: /workingpaper/
 
   - title: "Publications"
     url: /publications/
