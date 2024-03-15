@@ -20,7 +20,7 @@ Studentship:
 - PhD student: The monthly amount for a PGS is RMB¥15,000 (RMB¥180,000 each year in a 12-month basis).
 - RA: The salary for the research assistant position will be contingent upon the training, research capabilities, and duration of the research assistantship.
 
-**While candidates trained in economics with strong analytical skills are preferred, students from related fields such as financial engineering, applied mathematics/computer science/environmental engineering with a passion for interdisciplinary research are also welcome to apply.** 
+**While candidates trained in economics with strong analytical skills are preferred, students from related fields such as financial engineering, applied mathematics/computer science/environmental engineering with a passion for interdisciplinary research are also welcome to apply.** If you are passionate about the intersection of environmental and agricultural economics and eager to contribute to solving the global challenges faced by agriculture and the environment, please join us. Let's embark on this journey together and forge a path towards a more sustainable world.
 
 If you're interested, please email me your CV, transcripts (official or unofficial), and a two-page research proposal at **luoyechen [at] hkust-gz [dot] edu [dot] cn**. Please note that I may not respond to emails containing only a CV.
 
