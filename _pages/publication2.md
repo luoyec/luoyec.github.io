@@ -45,20 +45,20 @@ redirect_from:
   **Environmental Research Letters**, 2021 \
   [Paper](https://iopscience.iop.org/article/10.1088/1748-9326/abd7af/pdf) [Replication Codes](https://doi.org/10.13012/B2IDB-9851670_V1)
 
-- [4] "Water quality effects of economically viable land use change in the Mississippi river basin under the Renewable Fuel Standard." \
+- [4] "Redefining marginal land for bioenergy crop production." \
+  Madhu Khanna, Luoye Chen, Bruno Basso, Ximing Cai, John L. Field, Kaiyu Guan, Chongya Jiang et al. \
+  **GCB Bioenergy**, 2021 \
+  [Paper](https://onlinelibrary.wiley.com/doi/full/10.1111/gcbb.12877) 
+
+- [3] "Water quality effects of economically viable land use change in the Mississippi river basin under the Renewable Fuel Standard." \
   Kelsie M. Ferin, Luoye Chen, Jia Zhong, Sarah Acquah, Emily A. Heaton, Madhu Khanna, and Andy VanLoocke. \
   **Environmental Science & Technology**, 2021 \
   [Paper](https://pubs.acs.org/doi/pdf/10.1021/acs.est.0c04358) [Replication Code for BEPAM](https://doi.org/10.13012/B2IDB-3388479_V1)
 
-- [3] "Assessing Marginal Land Availability Based on Land Use Change Information in the Contiguous United States." \
+- [2] "Assessing Marginal Land Availability Based on Land Use Change Information in the Contiguous United States." \
   Chongya Jiang, Kaiyu Guan, Madhu Khanna, Luoye Chen, and Jian Peng. \
   **Environmental Science & Technology**, 2021 \
   [Paper](https://pubs.acs.org/doi/pdf/10.1021/acs.est.1c02236) [Replication Codes & Data]
-
-- [2] "Redefining marginal land for bioenergy crop production." \
-  Madhu Khanna, Luoye Chen, Bruno Basso, Ximing Cai, John L. Field, Kaiyu Guan, Chongya Jiang et al. \
-  **GCB Bioenergy**, 2021 \
-  [Paper](https://onlinelibrary.wiley.com/doi/full/10.1111/gcbb.12877) 
 
 - [1] "The impact of metro services on housing prices: a case study from Beijing." \
   Shengxiao Li, Luoye Chen, Pengjun Zhao. \
