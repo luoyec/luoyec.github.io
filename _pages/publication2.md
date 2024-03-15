@@ -20,13 +20,13 @@ redirect_from:
 
 ### Publications
 - [9] "The Spatiotemporal Pattern of Surface Ozone and Its Impact on Agricultural Productivity in China" \
-  Xiaoguang Chen, Jing Gao, Luoye Chen, Madhu Khanna, Binlei Gong, and Max Auffhammer. \
-  **PNAS nexus**, 2024 (first authorship jointly shared).\
+  Xiaoguang Chen, Jing Gao, Luoye Chen, Madhu Khanna, Binlei Gong, and Maximilian Auffhammer. \
+  **PNAS nexus**, 2024 (co-first & co-corresponding author).\
   [Paper](https://doi.org/10.1093/pnasnexus/pgad435) [Replication Codes & Data](https://zenodo.org/records/10280292)
 
 - [8] “Air Pollution and Flight Delays in China" \
   Xiaoguang Chen, Luoye Chen, Wei Xie, Nathan Mueller, Steven Davis. \
-  **Journal of Environmental Economics and Management**, 2023 (first authorship is jointly shared) \
+  **Journal of Environmental Economics and Management**, 2023 (co-first author) \
   [Paper](https://doi.org/10.1016/j.jeem.2023.102810)
 
 - [7] "Quantifying Uncertainties in Greenhouse Gas Savings and Mitigation Costs with Cellulosic Biofuels" \
