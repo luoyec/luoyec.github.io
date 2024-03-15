@@ -20,8 +20,8 @@ redirect_from:
 
 ### Publications
 "The Spatiotemporal Pattern of Surface Ozone and Its Impact on Agricultural Productivity in China" \
-Xiaoguang Chen, Jing Gao, Luoye Chen, Madhu Khanna, Binlei Gong, and Max Auffhammer.\\ 
-*PNAS nexus*, 2024 (first authorship jointly shared).\
+Xiaoguang Chen, Jing Gao, Luoye Chen, Madhu Khanna, Binlei Gong, and Max Auffhammer.\
+\*PNAS nexus*, 2024 (first authorship jointly shared).\
 [Paper](https://doi.org/10.1093/pnasnexus/pgad435) [Replication Codes & Data](https://zenodo.org/records/10280292)
 
 - “Air Pollution and Flight Delays in China"
