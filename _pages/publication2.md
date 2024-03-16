@@ -10,7 +10,7 @@ redirect_from:
 ### Working papers   
 
 - "Known and Unknown: Uncertainty in Estimating Land use Change from Satellite Data", with Madhu Khanna. 
--  “Weather Shocks, Economic Triggers, and Cropland Changein the US: A Fine-scale Spatial Analysis”, with Madhu Khanna. 
+-  “Weather Shocks, Economic Triggers, and Cropland Change in the US: A Fine-scale Spatial Analysis”, with Madhu Khanna. 
 - “Heterogeneous Effects of a Changing Climate on Bird Biodiversity and Adaptability”, with Madhu Khanna. (Under Revision)
 
 ### Selected Work in progress
