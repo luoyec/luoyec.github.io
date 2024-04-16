@@ -8,10 +8,8 @@ redirect_from:
 ---
 
 ### Working papers   
-
 - "Known and Unknown: Uncertainty in Estimating Land use Change from Satellite Data", with Madhu Khanna. 
 -  “Weather Shocks, Economic Triggers, and Cropland Change in the US: A Fine-scale Spatial Analysis”, with Madhu Khanna. 
-- “Heterogeneous Effects of a Changing Climate on Bird Biodiversity and Adaptability”, with Madhu Khanna. (Under Revision)
 
 ### Selected Work in progress
 - The Impact of Prevented Planting Provisions on Agricultural Production Decisions
@@ -19,6 +17,9 @@ redirect_from:
 - The adoption and diffusion of sustainable technologies: insights from text data
 
 ### Publications
+- [10] "Heterogeneous Effects of a Changing Climate on Bird Biodiversity and Adaptability”, with Madhu Khanna. \
+  **Global Environmental Change Advances**, 2024. Forthcoming
+  
 - [9] "The Spatiotemporal Pattern of Surface Ozone and Its Impact on Agricultural Productivity in China" \
   Xiaoguang Chen, Jing Gao, Luoye Chen, Madhu Khanna, Binlei Gong, and Maximilian Auffhammer. \
   **PNAS nexus**, 2024 (co-first & co-corresponding author).\
