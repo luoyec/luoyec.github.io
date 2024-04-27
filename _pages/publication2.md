@@ -18,7 +18,8 @@ redirect_from:
 
 ### Publications
 - [10] "Heterogeneous Effects of a Changing Climate on Bird Biodiversity and Adaptability”, with Madhu Khanna. \
-  **Global Environmental Change Advances**, 2024. Forthcoming
+  **Global Environmental Change Advances**, 2024.\
+  [Paper](https://doi.org/10.1016/j.gecadv.2024.100008) [Replication Code & Data](https://zenodo.org/records/11054670)
   
 - [9] "The Spatiotemporal Pattern of Surface Ozone and Its Impact on Agricultural Productivity in China" \
   Xiaoguang Chen, Jing Gao, Luoye Chen, Madhu Khanna, Binlei Gong, and Maximilian Auffhammer. \
