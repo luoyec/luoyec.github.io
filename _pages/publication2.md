@@ -7,14 +7,16 @@ redirect_from:
   - /research
 ---
 
-### Working papers   
-- "Known and Unknown: Uncertainty in Estimating Land use Change from Satellite Data", with Madhu Khanna. 
--  “Weather Shocks, Economic Triggers, and Cropland Change in the US: A Fine-scale Spatial Analysis”, with Madhu Khanna. 
+### Selected Work in progress (Draft Available upon request)
+#### Climate Adaptation:
+- Known and Unknown: Uncertainty in Estimating Land use Change from Satellite Data (with Madhu Khanna)
+- Weather Shocks, Economic Triggers, and Cropland Change in the US: A Fine-scale Spatial Analysis (with Madhu Khanna)
+- Barriers to Climate Adaptation: Satellite Evidence from the Agricultural Sector in China, (with Yu Chen, Zhihong Ke, Shang Xu, Yunan Zhu)
+#### Biodiversity Policy and Finance:
+- Decrypting the Financial and Ecological Effects of Biodiversity Conservation, (with Liying Wang, Yi Zhang)
+- Municipal Finance and Biodiversity Emergency, (with Tao Li, Yi Zhang)
 
-### Selected Work in progress
-- The Impact of Prevented Planting Provisions on Agricultural Production Decisions
-- Sustainable agricultural development in ecologically vulnerable area
-- The adoption and diffusion of sustainable technologies: insights from text data
+
 
 ### Publications
 - [10] "Heterogeneous Effects of a Changing Climate on Bird Biodiversity and Adaptability”, with Madhu Khanna. \
