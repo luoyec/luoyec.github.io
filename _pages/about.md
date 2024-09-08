@@ -14,7 +14,12 @@ I'm Luoye Chen (陈罗烨), an assistant professor specializing in the areas of 
 
 My research interests are situated at the nexus of environmental and agricultural economics, with a focus on land use, environmental pollution, and the decarbonization of agriculture. My previous work has investigated the cost-effectiveness of biofuel and conservation policies in the United States, along with their unintended environmental impacts. 
 
-Currently, my research aims to explore the following areas: (1) the impact of market conditions, climate change, air pollution, and policy measures on agricultural production choices; (2) the adoption of precision agriculture and low-carbon technologies; and (3) innovative strategies for decarbonizing the agricultural sector. I am particularly passionate about employing satellite imagery, econometric models, and machine learning techniques to inform and evaluate policy decisions.
+Currently, my research aims to explore the following areas: 
+(1) Climate adaptation strategies and technological innovations in agriculture
+(2) Land use modeling and optimization for sustainable resource management
+(3) Conservation policy design and biodiversity finance mechanisms
+
+I am particularly passionate about employing satellite imagery, econometric models, and machine learning techniques to inform and evaluate policy decisions.
 
 My latest CV: [CV](../files/CV_LuoyeChen_Dec2023.pdf) & email address: luoyechen [at] hkust-gz [dot] edu [dot] cn
 
