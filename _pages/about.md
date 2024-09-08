@@ -16,8 +16,7 @@ My research interests are situated at the nexus of environmental and agricultura
 
 Currently, my research aims to explore the following areas: 
 - Climate adaptation strategies and technological innovations in agriculture
-- Land use modeling and optimization for sustainable resource management
-- Conservation policy design and biodiversity finance mechanisms
+- Biodiversity conservation policy and finance
 
 I am particularly passionate about employing satellite imagery, econometric models, and machine learning techniques to inform and evaluate policy decisions.
 
