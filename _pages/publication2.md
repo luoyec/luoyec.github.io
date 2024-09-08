@@ -14,7 +14,7 @@ redirect_from:
 - Weather Shocks, Economic Triggers, and Cropland Change in the US: A Fine-scale Spatial Analysis (with Madhu Khanna)
 - Barriers to Climate Adaptation: Satellite Evidence from the Agricultural Sector in China, (with Yu Chen, Zhihong Ke, Shang Xu, Yunan Zhu)
   
-**Biodiversity Policy and Finance:**
+**Biodiversity conservation policy and finance:**
 - Decrypting the Financial and Ecological Effects of Biodiversity Conservation, (with Liying Wang, Yi Zhang)
 - Municipal Finance and Biodiversity Emergency, (with Tao Li, Yi Zhang)
 
