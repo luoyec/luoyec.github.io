@@ -13,6 +13,7 @@ redirect_from:
 - Known and Unknown: Uncertainty in Estimating Land use Change from Satellite Data (with Madhu Khanna)
 - Weather Shocks, Economic Triggers, and Cropland Change in the US: A Fine-scale Spatial Analysis (with Madhu Khanna)
 - Barriers to Climate Adaptation: Satellite Evidence from the Agricultural Sector in China (with Yu Chen, Zhihong Ke, Shang Xu, Yunan Zhu)
+- Household Financial Management Facilitates Farmers’ Adaptation to Air Pollution
   
 **(2) Biodiversity conservation policy and finance:**
 - Decrypting the Financial and Ecological Effects of Biodiversity Conservation, (with Liying Wang, Yi Zhang)
