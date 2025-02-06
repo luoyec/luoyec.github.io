@@ -8,13 +8,22 @@ redirect_from:
 
 ---
 
-I am currently seeking highly motivated postgraduate students (PhD), post-docs, research assistants, and summer interns to join my research team for the Fall 2024 term. 
+I am currently seeking highly motivated PhD students, post-docs, research assistants, and summer interns for my research team. Candidates must demonstrate expertise in one of the following research areas:
+
+1. Remote Sensing and GIS Applications in Economics
+Strong proficiency in processing and analyzing remote sensing data, experience with Python-based GIS techniques or Google Earth Engine
+
+2. Environmental and Agricultural Economic Analysis:
+Strong background in causal inference and reduced-form analysis, or experience with structural estimations and empirical IO
+
+3. Data Science in Economics:
+Strong foundation in mathematical modeling or deep learning, or experience implementing LLM techniques in economic applications
 
 PhD/RA Recruitment Criteria: 
-- Bachelor's or master's degree holders in relevant fields
-- Proficiency in Stata/R, GIS/remote sensing, Python, mathematical modelling, and machine learning, or familaiarity with RCT/field experiments will be given priority.
-- Team player with excellent communication skills 
-- Self-driven and eager to learn
+- Bachelor's or master's degree in relevant fields
+- Excellence in academic writing and quantitative analysis
+- Strong collaborative and communication skills
+- Self-motivated research attitude
 
 Studentship:
 - PhD student: The monthly amount for a PGS is RMB¥15,000 (RMB¥180,000 each year in a 12-month basis).
