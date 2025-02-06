@@ -10,14 +10,14 @@ redirect_from:
 
 I am currently seeking highly motivated PhD students, post-docs, research assistants, and summer interns for my research team. Candidates must demonstrate expertise in one of the following research areas:
 
-1. Remote Sensing and GIS Applications in Economics
-Strong proficiency in processing and analyzing remote sensing data, experience with Python-based GIS techniques or Google Earth Engine
+1. Remote Sensing and GIS Applications in Economics:
+- Strong proficiency in processing and analyzing remote sensing data, experience with Python-based GIS techniques or Google Earth Engine
 
 2. Environmental and Agricultural Economic Analysis:
-Strong background in causal inference and reduced-form analysis, or experience with structural estimations and empirical IO
+- Strong background in causal inference and reduced-form analysis, or experience with structural estimations and empirical IO
 
 3. Data Science in Economics:
-Strong foundation in mathematical modeling or deep learning, or experience implementing LLM techniques in economic applications
+- Strong foundation in mathematical modeling or deep learning, or experience implementing LLM techniques in economic applications
 
 PhD/RA Recruitment Criteria: 
 - Bachelor's or master's degree in relevant fields
