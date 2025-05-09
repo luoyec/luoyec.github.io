@@ -19,7 +19,7 @@ redirect_from:
 - Decrypting the Financial and Ecological Effects of Biodiversity Conservation, (with Liying Wang, Yi Zhang)
 - Municipal Finance and Biodiversity Emergency, (with Tao Li, Yi Zhang)
 
-**(3) Additional topics in environmental and agricultural economics
+**(3) Additional topics in environmental and agricultural economics**
 - High-Speed Rail Openning and Urban Air Quality, (with Xiaoguang Chen and Zhilong Qin), R&R, Regional Science and Urban Economics
 
 ### Publications
