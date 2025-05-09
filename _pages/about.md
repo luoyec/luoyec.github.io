@@ -10,7 +10,7 @@ redirect_from:
 
 Hi.
 
-I'm Luoye Chen (陈罗烨), an assistant professor specializing in the areas of Carbon Neutrality and Climate Change (CNCC) and Innovation, Policy, and Entrepreneurship (IPE) at the Hong Kong University of Science and Technology (Guangzhou). I earned my Ph.D. in Applied and Agricultural Economics from the University of Illinois at Urbana-Champaign, and I hold both a master's and a bachelor's degree from Peking University. 
+I'm Luoye Chen (陈罗烨), an assistant professor specializing in the areas of Carbon Neutrality and Climate Change (CNCC) and Innovation, Policy, and Entrepreneurship (IPE) at the Hong Kong University of Science and Technology (Guangzhou). I received my Ph.D. in Applied and Agricultural Economics from the University of Illinois at Urbana-Champaign. 
 
 My research interests are situated at the nexus of environmental and agricultural economics, with a focus on land use, environmental pollution, and the decarbonization of agriculture. My previous work has investigated the cost-effectiveness of biofuel and conservation policies in the United States, along with their unintended environmental impacts. 
 
