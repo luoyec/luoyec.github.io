@@ -20,7 +20,7 @@ redirect_from:
 - Municipal Finance and Biodiversity Emergency, (with Tao Li, Yi Zhang)
 
 **(3) Additional topics in environmental and agricultural economics**
-- High-Speed Rail Openning and Urban Air Quality, (with Xiaoguang Chen and Zhilong Qin), R&R, Regional Science and Urban Economics
+- High-Speed Rail Openning and Urban Air Quality, (with Xiaoguang Chen and Zhilong Qin), forthcoming, Regional Science and Urban Economics
 
 ### Publications
 - [10] "Heterogeneous Effects of a Changing Climate on Bird Biodiversity and Adaptability”, with Madhu Khanna. \
