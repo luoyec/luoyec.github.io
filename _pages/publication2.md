@@ -17,12 +17,16 @@ redirect_from:
   
 **(2) Biodiversity conservation policy and finance:**
 - Decrypting the Financial and Ecological Effects of Biodiversity Conservation, (with Liying Wang, Yi Zhang)
-- Municipal Finance and Biodiversity Emergency, (with Tao Li, Yi Zhang)
+- Municipal Finance and Biodiversity Emergency, (with Tao Li, Yi Zhang) .\
+  [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5102235)
 
 **(3) Additional topics in environmental and agricultural economics**
-- High-Speed Rail Openning and Urban Air Quality, (with Xiaoguang Chen and Zhilong Qin), forthcoming, Regional Science and Urban Economics
 
 ### Publications
+- [11] High-Speed Rail Openning and Urban Air Quality, with Xiaoguang Chen and Zhilong Qin. \
+  **Regional Science and Urban Economics**, 2025.\
+  [Paper](https://doi.org/10.1016/j.regsciurbeco.2025.104134)
+  
 - [10] "Heterogeneous Effects of a Changing Climate on Bird Biodiversity and Adaptability”, with Madhu Khanna. \
   **Global Environmental Change Advances**, 2024.\
   [Paper](https://doi.org/10.1016/j.gecadv.2024.100008) [Replication Code & Data](https://zenodo.org/records/11054670)
