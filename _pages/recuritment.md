@@ -8,7 +8,7 @@ redirect_from:
 
 ---
 
-I am currently seeking highly motivated PhD students, post-docs, research assistants, and summer interns for my research team. Candidates must demonstrate expertise in one of the following research areas:
+For the 2025-2026 academic year, I am only recruiting Research Assistants and Summer Interns for my research team. Candidates must demonstrate expertise in one of the following research areas:
 
 1. Remote Sensing and GIS Applications in Economics:
 - Strong proficiency in processing and analyzing remote sensing data, experience with Python-based GIS techniques or Google Earth Engine
