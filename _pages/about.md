@@ -22,4 +22,4 @@ I am particularly passionate about employing satellite imagery, econometric mode
 
 My latest CV: [CV](../files/CV_LuoyeChen_Dec2023.pdf) & email address: luoyechen [at] hkust-gz [dot] edu [dot] cn
 
-I am currently seeking highly motivated postgraduate students (PhD) and research assistants to join my research team. If you are interested, please click this link for detailed information: [link](https://luoyec.github.io/recruitment/)
+For the 2025-2026 academic year, I am only recruiting Research Assistants and Summer Interns for my research team. If you are interested, please click this link for detailed information: [link](https://luoyec.github.io/recruitment/)
