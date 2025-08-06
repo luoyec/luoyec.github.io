@@ -19,7 +19,7 @@ For the 2025-2026 academic year, I am only recruiting Research Assistants and Su
 3. Data Science in Economics:
 - Strong foundation in mathematical modeling or deep learning, or experience implementing LLM techniques in economic applications
 
-PhD/RA Recruitment Criteria: 
+RA Recruitment Criteria: 
 - Bachelor's or master's degree in relevant fields
 - Excellence in academic writing and quantitative analysis
 - Strong collaborative and communication skills
