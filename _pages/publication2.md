@@ -10,16 +10,16 @@ redirect_from:
 ### Selected Work in progress (Draft Available upon request)
 
 **(1) Climate adaptation:**
-- Market-driven adaptation to climate change creates a costly spatial mismatch in US agriculture (with Madhu Khanna, Zhihong Ke)
+- Market-driven adaptation to climate change creates a costly spatial mismatch in US agriculture (with Madhu Khanna, Zhihong Ke) .\
   Previously circulated as “Known and Unknown: Uncertainty in Estimating Land use Change from Satellite Data”
 - Weather Shocks, Economic Triggers, and Cropland Change in the US: A Fine-scale Spatial Analysis (with Madhu Khanna)
 - Household Financial Management Facilitates Farmers’ Adaptation to Air Pollution (with Xiaoguang Chen, Madhu Khanna, Xiaoli Wang)
 - Barriers to Climate Adaptation: Satellite Evidence from the Agricultural Sector in China (with Yu Chen, Zhihong Ke, Shang Xu, Yunan Zhu)
   
 **(2) Biodiversity conservation policy and finance:**
-- Biodiversity Regulation and Corporate Adaptation: Evidence from the Endangered Species Act (with Dragon Yongjun Tang, Liying Wang, Yi Zhang)
-  Previously circulated as “Decrypting the Financial and Ecological Effects of Biodiversity Conservation”
-  Presented at: Baruch-JFQA Climate Finance and Sustainability Conference 2026 (Best Paper Award); FMA 2025 (Semi-finalist, Best Paper Award); 5th Annual Boca-ECGI Conference 2024
+- Biodiversity Regulation and Corporate Adaptation: Evidence from the Endangered Species Act (with Dragon Yongjun Tang, Liying Wang, Yi Zhang) .\
+  Previously circulated as “Decrypting the Financial and Ecological Effects of Biodiversity Conservation”.\
+  Presented at: Baruch-JFQA Climate Finance and Sustainability Conference 2026 (Best Paper Award); FMA 2025 (Semi-finalist, Best Paper Award); 5th Annual Boca-ECGI Conference 2024 .\
   [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5434454)
 - Municipal Finance and Biodiversity Emergency, (with Tao Li, Yi Zhang) .\
   [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5102235)
