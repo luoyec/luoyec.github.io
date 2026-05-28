@@ -27,6 +27,8 @@ redirect_from:
 **(3) Additional topics in environmental and agricultural economics**
 
 ### Publications
+- [12] Standardizing disadvantage: How global carbon accounting methodologies undervalue China's blue carbon assets, with Zichong Chen, Donghao Jiang and Wen Sun. \
+  **Land Use Policy**, forthcoming.\
 - [11] High-Speed Rail Openning and Urban Air Quality, with Xiaoguang Chen and Zhilong Qin. \
   **Regional Science and Urban Economics**, 2025.\
   [Paper](https://doi.org/10.1016/j.regsciurbeco.2025.104134)
