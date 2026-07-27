@@ -68,7 +68,8 @@ redirect_from:
 - [4] "Redefining marginal land for bioenergy crop production." \
   Madhu Khanna, Luoye Chen, Bruno Basso, Ximing Cai, John L. Field, Kaiyu Guan, Chongya Jiang et al. \
   **GCB Bioenergy**, 2021 \
-  [Paper](https://onlinelibrary.wiley.com/doi/full/10.1111/gcbb.12877) 
+  [Paper](https://onlinelibrary.wiley.com/doi/full/10.1111/gcbb.12877)
+  Most-cited Paper Award
 
 - [3] "Water quality effects of economically viable land use change in the Mississippi river basin under the Renewable Fuel Standard." \
   Kelsie M. Ferin, Luoye Chen, Jia Zhong, Sarah Acquah, Emily A. Heaton, Madhu Khanna, and Andy VanLoocke. \
