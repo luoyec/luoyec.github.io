@@ -13,7 +13,7 @@ redirect_from:
 - Market-driven adaptation to climate change creates a costly spatial mismatch in US agriculture (with Madhu Khanna, Zhihong Ke) .\
   Previously circulated as “Known and Unknown: Uncertainty in Estimating Land use Change from Satellite Data”
 - Weather Shocks, Economic Triggers, and Cropland Change in the US: A Fine-scale Spatial Analysis (with Madhu Khanna)
-- Household Financial Management Facilitates Farmers’ Adaptation to Air Pollution (with Xiaoguang Chen, Madhu Khanna, Xiaoli Wang)
+- Household Financial Management Facilitates Farmers’ Adaptation to Air Pollution (with Xiaoguang Chen, Xiaoli Wang)
 - Barriers to Climate Adaptation: Satellite Evidence from the Agricultural Sector in China (with Yu Chen, Zhihong Ke, Shang Xu, Yunan Zhu)
   
 **(2) Biodiversity conservation policy and finance:**
@@ -28,7 +28,9 @@ redirect_from:
 
 ### Publications
 - [12] Standardizing disadvantage: How global carbon accounting methodologies undervalue China's blue carbon assets, with Zichong Chen, Donghao Jiang and Wen Sun. \
-  **Land Use Policy**, forthcoming.\
+  **Land Use Policy**, 2026.\
+  [Paper](https://doi.org/10.1016/j.landusepol.2026.108145)
+  
 - [11] High-Speed Rail Openning and Urban Air Quality, with Xiaoguang Chen and Zhilong Qin. \
   **Regional Science and Urban Economics**, 2025.\
   [Paper](https://doi.org/10.1016/j.regsciurbeco.2025.104134)
